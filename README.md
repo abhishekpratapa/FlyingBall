@@ -1,7 +1,7 @@
 # FlyingBall
 A ball that flies and takes pictures<br/>
 <br/>
-<h2>Things to do</h2>
+<h1>Things to do</h1>
 <br/>
 <h3>Computer work</h3><br/>
 [] Render <br/>
