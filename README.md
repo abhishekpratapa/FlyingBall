@@ -1,6 +1,11 @@
 # FlyingBall
 A ball that flies and takes pictures<br/>
 <br/>
+<h3>Priority Order</h3><br/>
+1: first most priority <br/>
+2: second most priority<br/>
+...<br/>
+<br/>
 <h1>Things to do</h1>
 <br/>
 <h3>Computer work</h3><br/>
@@ -31,4 +36,7 @@ A ball that flies and takes pictures<br/>
 [] Write a program to set up the airfoils and automatically run them once plugged in via USB<br/>
 <br/>
 <h3>Business Setup</h3><br/>
+[] Identify target markets<br/>
+[] Write a plan of beaching (How do we enter the market?)<br/>
+[] business canvas<br/>
 <br/>
