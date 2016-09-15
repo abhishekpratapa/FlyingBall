@@ -13,7 +13,9 @@ A ball that flies and takes pictures, its kinda cool<br/>
 <br/>
 look at this:<br/>
 <br/>
-
+![alt tag](images/IMG_1647.JPG?raw=true "Picture of the Ball #1")
+![alt tag](images/IMG_1648.JPG?raw=true "Picture of the Ball #2")
+![alt tag](images/IMG_1650.JPG?raw=true "Picture of the Ball #2")
 <br/>
 - [x] Run airfoil simulation <br/>
 - [ ] Render marketing preview<br/>
