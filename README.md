@@ -15,13 +15,19 @@ look at this:<br/>
 <br/>
 <p>Front Camera</p>
 <hr></hr>
+
 ![alt tag](images/IMG_1647.JPG?raw=true "Picture of the Ball #1")
+
 <p>Back Button Panel</p>
 <hr></hr>
+
 ![alt tag](images/IMG_1648.JPG?raw=true "Picture of the Ball #2")
+
 <p>Side Shot Camera</p>
 <hr></hr>
+
 ![alt tag](images/IMG_1650.JPG?raw=true "Picture of the Ball #2")
+
 <br/>
 - [x] Run airfoil simulation <br/>
 - [ ] Render marketing preview<br/>
