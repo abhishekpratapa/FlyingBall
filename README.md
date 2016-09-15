@@ -15,16 +15,16 @@ look at this:<br/>
 <br/>
 
 <br/>
-- [ ] Run airfoil simulation <br/>
+- [x] Run airfoil simulation <br/>
 - [ ] Render marketing preview<br/>
 - [ ] Render airfoil stream charts<br/>
 - [ ] Run electrical simulations (battery)<br/>
 - [ ] Document Lift, Drag characteristics at different RPM's<br/>
 <br/>
 <h3>Research</h3><br/>
-- [ ] Research proper airfoils for low Reynold's numbers<br/>
+- [x] Research proper airfoils for low Reynold's numbers<br/>
 - [ ] Identify the best way to simulate flying device physics in python opengl<br/>
-- [ ] Mark all the necessary components for an MVP<br/>
+- [x] Mark all the necessary components for an MVP<br/>
 <h3>Setup work</h3><br/>
 - [ ] Set up the ball animation for the marketing video<br/>
 - [ ] Set up the airfoils for the simulation
@@ -41,7 +41,8 @@ look at this:<br/>
 - [ ] Write a program to set up the airfoils and automatically run them once plugged in via USB<br/>
 <br/>
 <h3>Business Setup</h3><br/>
-- [ ] Identify target markets<br/>
-- [ ] Write a plan of beaching (How do we enter the market?)<br/>
-- [ ] business canvas<br/>
+(this shit is easy)
+- [x] Identify target markets<br/>
+- [x] Write a plan of beaching (How do we enter the market?)<br/>
+- [x] business canvas<br/>
 <br/>
