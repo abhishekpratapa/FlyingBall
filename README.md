@@ -1,5 +1,5 @@
 # FlyingBall
-A ball that flies and takes pictures<br/>
+A ball that flies and takes pictures, its kinda cool<br/>
 <br/>
 <h3>Priority Order</h3><br/>
 1: first most priority <br/>
@@ -10,6 +10,11 @@ A ball that flies and takes pictures<br/>
 <br/>
 <h3>Computer work</h3><br/>
 [x] Render still images<br/>
+<br/>
+look at this:<br/>
+<br/>
+
+<br/>
 [] Run airfoil simulation <br/>
 [] Render marketing preview<br/>
 [] Render airfoil stream charts<br/>
