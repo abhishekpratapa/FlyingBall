@@ -33,3 +33,10 @@ look at this:<br/>
 - [x] Research proper airfoils for low Reynold's numbers
 - [ ] Identify the best way to simulate flying device physics in python opengl
 - [x] Mark all the necessary components for an MVP
+<h3>Setup work</h3><br/>
+- [ ] Set up the ball animation for the marketing video
+- [ ] Set up the airfoils for the simulation
+<h3>Design work</h3><br/>
+- [ ] Design a PCB for the device
+- [ ] Design a variety of airfoil designs based on parsed data
+<br/>
