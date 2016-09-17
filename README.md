@@ -46,4 +46,10 @@ look at this:<br/>
 - [ ] check simulated version in python against a physics engine
 - [ ] Program a controller for stabilizing the flight of the ball
 - [ ] Write a program to set up the airfoils and automatically run them once plugged in via USB
-
+<br/>
+<h3>Business Setup</h3>
+<br/>
+- [x] Identify target markets<br/>
+- [x] Write a plan of beaching (How do we enter the market?)<br/>
+- [x] business canvas<br/>
+<br/>
