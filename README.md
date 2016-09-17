@@ -40,3 +40,10 @@ look at this:<br/>
 - [ ] Design a PCB for the device
 - [ ] Design a variety of airfoil designs based on parsed data
 <br/>
+<h3>Programming</h3><br/>
+- [ ] Parse airfoil data to find the best airfoil's at certian Reynold's values
+- [ ] design a simulated version of the ball in OpenGL python
+- [ ] check simulated version in python against a physics engine
+- [ ] Program a controller for stabilizing the flight of the ball
+- [ ] Write a program to set up the airfoils and automatically run them once plugged in via USB
+
