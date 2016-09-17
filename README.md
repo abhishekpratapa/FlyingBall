@@ -22,3 +22,10 @@ look at this:<br/>
 <p>Side Shot Camera</p>
 <hr></hr>
 ![alt tag](images/IMG_1650.JPG?raw=true "Picture of the Ball #2")
+<br/>
+- [x] Run airfoil simulation
+- [ ] Render marketing preview
+- [ ] Render airfoil stream charts
+- [ ] Run electrical simulations (battery)
+- [ ] Document Lift, Drag characteristics at different RPM's
+<br/>
